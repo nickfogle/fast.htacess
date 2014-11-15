@@ -1,5 +1,5 @@
 # Increase Performance with .htaccess.
-## Htaccess files are read on every request, so changes in these files take immediate effect
+## Optimized to make Htaccess files ready on every request.
 
 
 ### FEATURES:
